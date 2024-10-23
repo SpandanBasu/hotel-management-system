@@ -1,6 +1,8 @@
 # HotelApp
 
+Hotel Management Application Using Angular (FrontEnd) and Mockoon for Mock Backend APIs.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+![Screenshot1](https://github.com/SpandanBasu/hotel-management-system/blob/main/hotel_mgmt1.png?raw=true)
 
 ## Development server
 
